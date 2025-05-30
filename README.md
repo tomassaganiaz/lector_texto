@@ -1,6 +1,6 @@
 # lector_texto
 
-Trabajo Práctico: Gestión de Notas Simples
+Trabajo Práctico n-3: Gestión de Notas Simples
 - Objetivo: Implementar un sistema que permita leer y escribir notas de texto en un archivo.
  - Writer
    - Debe tener un método addNote(note: string) que agregue la nota a un archivo notes.txt.
